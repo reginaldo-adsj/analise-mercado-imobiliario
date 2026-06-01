@@ -1,5 +1,5 @@
 # analise-mercado-imobiliario
-nálise exploratória, tratamento de outliers e engenharia de atributos utilizando Python, Pandas e Seaborn.
+Análise exploratória, tratamento de outliers e engenharia de atributos utilizando Python, Pandas e Seaborn.
 
 # 📈 Análise de Elasticidade de Preços no Mercado Imobiliário
 
